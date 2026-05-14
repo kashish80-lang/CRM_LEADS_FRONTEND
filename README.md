@@ -7,6 +7,9 @@ This project helps sales teams manage potential customers (leads) efficiently th
 ---
 
 # Live Features
+## Demo Video
+
+<video src="./public/screenshots/demo.mp4" controls width="700"></video>
 
 ## Lead Management
 

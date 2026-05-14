@@ -1,21 +1,12 @@
 {
   "leads": [
     {
-      "name": "kashish",
-      "email": "kashish1234@gmail.com",
-      "source": "linkedin",
-      "status": "NEW",
-      "created_at": "2026-05-14T19:49:21.377Z",
-      "updated_at": "2026-05-14T20:25:12.569Z",
-      "id": 2
-    },
-    {
-      "name": "kashish",
+      "name": "riya sharma",
       "email": "k3245@gmail.com",
       "source": "new",
       "status": "NEW",
       "created_at": "2026-05-14T19:49:50.116Z",
-      "updated_at": "2026-05-14T19:49:50.116Z",
+      "updated_at": "2026-05-14T20:59:11.972Z",
       "id": 3
     },
     {
@@ -26,6 +17,15 @@
       "created_at": "2026-05-14T20:25:59.520Z",
       "updated_at": "2026-05-14T20:25:59.520Z",
       "id": 4
+    },
+    {
+      "name": "RISHIKA GUPTA",
+      "email": "RG4568@gmail.com",
+      "source": "linkedin",
+      "status": "NEW",
+      "created_at": "2026-05-14T20:58:54.986Z",
+      "updated_at": "2026-05-14T20:58:54.986Z",
+      "id": 5
     }
   ]
 }
