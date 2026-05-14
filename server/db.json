@@ -1,0 +1,31 @@
+{
+  "leads": [
+    {
+      "name": "kashish",
+      "email": "kashish1234@gmail.com",
+      "source": "linkedin",
+      "status": "NEW",
+      "created_at": "2026-05-14T19:49:21.377Z",
+      "updated_at": "2026-05-14T20:25:12.569Z",
+      "id": 2
+    },
+    {
+      "name": "kashish",
+      "email": "k3245@gmail.com",
+      "source": "new",
+      "status": "NEW",
+      "created_at": "2026-05-14T19:49:50.116Z",
+      "updated_at": "2026-05-14T19:49:50.116Z",
+      "id": 3
+    },
+    {
+      "name": "bharat",
+      "email": "bharat_522@gmail.com",
+      "source": "indeed",
+      "status": "NEW",
+      "created_at": "2026-05-14T20:25:59.520Z",
+      "updated_at": "2026-05-14T20:25:59.520Z",
+      "id": 4
+    }
+  ]
+}
