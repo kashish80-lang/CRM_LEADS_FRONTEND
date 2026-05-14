@@ -130,29 +130,19 @@ npx json-server --watch server/db.json --port 3002
 
 # Screenshots
 
-## Dashboard
+## Screenshots
 
-Add your screenshot here.
+### Dashboard
 
-Example:
+![Dashboard](./screenshots/dashboard.png)
 
-```md
-![Dashboard Screenshot](./screenshots/dashboard.png)
-```
+### Add Lead
 
-## Add Lead Modal
-
-```md
 ![Add Lead](./screenshots/add-lead.png)
-```
 
-## Edit Lead Modal
+### Edit Lead
 
-```md
-![Edit Lead](./screenshots/edit-lead.png)
-```
-
----
+![Edit Lead](./screenshots/edit-lead.png)---
 
 # Future Improvements
 
