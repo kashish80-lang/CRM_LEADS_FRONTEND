@@ -9,8 +9,11 @@ This project helps sales teams manage potential customers (leads) efficiently th
 # Live Features
 ## Demo Video
 
-<video src="./public/screenshots/demo.mp4" controls width="700"></video>
+<video src="https://github.com/kashish80-lang/CRM_LEADS_FRONTEND/raw/main/screenshots/demo.mp4" controls width="700"></video>
 
+If video does not play:
+
+[Watch Demo Video](https://github.com/kashish80-lang/CRM_LEADS_FRONTEND/raw/main/screenshots/demo.mp4)
 ## Lead Management
 
 * Add new leads
